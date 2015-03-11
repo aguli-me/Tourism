@@ -1,0 +1,167 @@
+
+body{
+    background-image:url('http://people.rit.edu/axg4202/739/midterm/images/bkjpg.jpg');
+    /**background-color:pink;*/
+    }
+    
+#wrap{
+    background-color:rgba(255,255,255,0.7);
+    font-family: 'times new roman';
+    margin: 10px 50px;
+    border-radius:10px;
+    border:2px solid black;
+    }
+    
+#header{
+	color:black;
+	font-size: 35px;
+	font-family: fantasy;
+	font-weight: bolder;
+	border: 2px #FFAEAE solid;
+	background-color:#FFAEAE;
+	text-align: right;
+	padding:10px;
+	 border-top-right-radius: 10px;
+	 border-top-left-radius: 10px;
+	}
+
+/** style for  the top menu */
+
+#top #menu{
+    list-style: none;
+    background-color: black;
+}
+
+#top #menu li{
+    background-color:#FFAEAE;
+  border:2px solid black;
+  border-radius:25px;
+  float:left;
+  margin-right:20px;
+  padding:15px;
+}
+
+#top #menu li a{
+    text-decoration: none;
+    color:black;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+#top #menu li a:hover{
+     background-color: black;
+     color:#F57DB5;
+}
+
+.current{
+    border-bottom: 3px solid black;    
+}
+/**content style*/
+
+#content{
+    clear:both;
+    padding:13px;
+}
+
+#catalog h3, #sale h3{
+    text-align: center;
+    font-weight:bolder;
+    font-size: 25px;
+    font-family: Arial;
+    background-color:#FFAEAE;
+    border:2px black solid;
+    border-radius: 10px;
+    padding:10px 0px;
+    
+}
+
+#catalog,#sale{
+    border: 2px #FFAEAE solid;
+    border-radius: 10px;
+    padding:30px;
+    box-shadow: 5px 5px 2px #FFAEAE;
+    margin-bottom: 15px;
+}
+    
+/** css for contact us webpage form */
+
+#con{
+    box-shadow: 3px 3px 2px #FFAEAE;
+    border:2px #FFAEAE solid;
+    padding-left: 6px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+#content #catalog #pagination{
+    /*text-align: center;*/
+    font:25px arial,sans-serif;
+    color:black;
+}
+
+#pagination{
+    margin-top:25px;    
+}
+
+.name{
+    font-size: 20px;
+    color:black;
+    font-weight:bolder;
+    font-family:sans-serif;
+}
+
+#add, #edit{
+    box-shadow: 3px 3px 2px #FFAEAE;
+    border:2px #FFAEAE solid;
+    border-radius: 10px;
+    padding:10px;
+    margin-bottom: 25px;
+}
+
+/*#edit{
+    position:relative;
+    left:500px;
+    top:-338px;
+}*/
+
+.hide{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+.left{
+    float:left;
+    margin-right: 10px;
+    border:1px solid black;
+}
+
+
+/** css for the footer section showing client info */
+#access{
+    box-shadow: 5px 5px 2px #FFAEAE;
+    border:2px #FFAEAE solid;
+    border-radius: 10px;
+    padding:10px;
+}
+
+
+.item{
+    padding: 35px;
+    border-bottom: 1px solid #FFAEAE;
+}
+
+#msg{
+    background-color:green;
+    font-weight:bold;
+    font-size:25px;
+    border:2px black solid;
+    
+    width:400px;
+    position:absolute;
+    top:98px;
+    left:670px;
+    border-radius: 10px;
+}

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<products>
+<product>
+<name num="1">Necklace</name>
+<description>ornament worn on the neck</description>
+<price>7</price>
+<qty>57</qty>
+<image>necklace.jpg</image>
+<sale>0</sale>
+</product>
+<product num="2">
+<name>Braclet</name>
+<description>Oranament worn on the wrist</description>
+<price>10</price>
+<qty>64</qty>
+<image>bracelet.jpg</image>
+<sale>0</sale>
+</product>
+<product num="3">
+<name>Ring</name>
+<description>ornament worn on fingers</description>
+<price>20</price>
+<qty>24</qty>
+<image>ring.jpg</image>
+<sale>16</sale>
+</product>
+<product num="4">
+<name>Hair Clip</name>
+<description>ornament for holding the hair togethe</description>
+<price>17</price>
+<qty>88</qty>
+<image>clip.jpg</image>
+<sale>0</sale>
+</product>
+<product num="5">
+<name>Leg Accessory</name>
+<description>worn on leg fingers</description>
+<price>14</price>
+<qty>87</qty>
+<image>leg.jpg</image>
+<sale>0</sale>
+</product>
+<product num="6">
+<name>Watch</name>
+<description>worn on the wrist that shows time</description>
+<price>50</price>
+<qty>75</qty>
+<image>watch.jpg</image>
+<sale>0</sale>
+</product>
+<product num="7">
+<name>Thumb Ring</name>
+<description>ring for the thumb</description>
+<price>14</price>
+<qty>99</qty>
+<image>thumb.jpg</image>
+<sale>0</sale>
+</product>
+<product num="8">
+<name>Butterfly Clip</name>
+<description>clip meant for the hair</description>
+<price>12</price>
+<qty>99</qty>
+<image>butterfly.jpg</image>
+<sale>0</sale>
+</product>
+<product num="9">
+<name>French Twist Clip</name>
+<description>hair clip for making a french twist</description>
+<price>20</price>
+<qty>93</qty>
+<image>french.jpg</image>
+<sale>13</sale>
+</product>
+<product num="10">
+<name>Aligator Clip</name>
+<description>hair clip meant for styling purpose</description>
+<price>11</price>
+<qty>99</qty>
+<image>aligator.jpg</image>
+<sale>0</sale>
+</product>
+<product num="11">
+<name>Hair Band</name>
+<description>decorative stuff for the hair</description>
+<price>8</price>
+<qty>98</qty>
+<image>band.jpg</image>
+<sale>0</sale>
+</product>
+<product num="12">
+<name>Anklet</name>
+<description>ornament worn on the ankles</description>
+<price>44</price>
+<qty>96</qty>
+<image>anklet.jpg</image>
+<sale>0</sale>
+</product>
+<product num="13">
+<name>Ear Ring</name>
+<description>ornament for the ears</description>
+<price>13</price>
+<qty>98</qty>
+<image>ear.jpg</image>
+<sale>0</sale>
+</product>
+<product num="14">
+<name>Nose Ring</name>
+<description>hoop for the nose</description>
+<price>23</price>
+<qty>99</qty>
+<image>nose.jpg</image>
+<sale>0</sale>
+</product>
+<product num="15">
+<name>Hair Accessories</name>
+<description>pins for the hair</description>
+<price>15</price>
+<qty>99</qty>
+<image>acessory.jpg</image>
+<sale>0</sale>
+</product>
+<product num="16">
+<name>Forehead Accessory</name>
+<description>ornament worn on the forehead</description>
+<price>20</price>
+<qty>76</qty>
+<image>mathe.jpg</image>
+<sale>15</sale>
+</product>
+<product num="17">
+<name>ashwini</name>
+<description>jsdbbjdbjvb</description>
+<price>99</price>
+<qty>97</qty>
+<image>Tulips.jpg</image>
+<sale>0</sale>
+</product>
+<product num="18">
+<name>jsdahgfuaj</name>
+<description>dashgvhdgvha</description>
+<price>98</price>
+<qty>6</qty>
+<image>Tulips.jpg</image>
+<sale>0</sale>
+</product>
+<product num="19"><name>aa</name><description>aa</description><price/><qty/><image/><sale/></product><product num="20"><name>shfm</name><description>fgngfn</description><price>12</price><qty>1</qty><image>Koala.jpg</image><sale>0</sale></product></products>

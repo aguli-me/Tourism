@@ -1,0 +1,16 @@
+Necklace|ornament worn on the neck|75|50|necklace.jpg|0
+Bracelet|ornament worn on the wrist|13|10|bracelet.jpg|0
+Ring|ornament worn on fingers|20|14|ring.jpg|16
+Hair Clip|ornament for holding the hair together|17|25|clip.jpg|0
+Leg Accessory|worn on leg fingers|12|60|leg.jpg|0
+Watch|worn on the wrist that shows time|20|5|watch.jpg|0
+Thumb Ring|ring for the thumb|7|10|thumb.jpg|0
+Butterfly clip|clip meant for the hair|10|15|butterfly.jpg|0
+French Twist Clip|hair clip for making a french twist|15|5|french.jpg|13
+Aligator Clip|hair clip meant for styling purpose|9|10|aligator.jpg|0
+Hair Band|decorative stuff for the hair|10|9|band.jpg|0
+Anklet|ornament worn on the ankles|9|40|anklet.jpg|0
+Ear Ring|ornament for the ears|14|33|ear.jpg|0
+Nose Ring|hoop for the nose|10|25|nose.jpg|0
+Hair Acessory|pins for the hair|6|19|acessory.jpg|0
+Forehead Accessory|ornament worn on the forehead|20|7|mathe.jpg|15
